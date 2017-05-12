@@ -1,0 +1,9 @@
+hacer nuevo repositorio
+clonar
+nuevo proyecto windows 2015 c++
+comittear proyecto vacio con git.ignore
+integrar libreria
+sfml tutoriales https://www.sfml-dev.org/download/sfml/2.4.2/
+c++ 2015
+
+yes i am
